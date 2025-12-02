@@ -21,8 +21,7 @@
 
 # 🌙 **About Me**
 🌟 Passionate **Full-Stack Developer & Future AI Engineer**  
-💻 I create **AI models**, **ML projects**, and **dynamic web apps**  
-🏆 Hackathon Winner — *Movie Recommendation System*  
+💻 I create **AI models**, **ML projects**, and **dynamic web apps**    
 🚀 On a journey to master **AI + ML + Web Dev**
 
 ---
@@ -100,10 +99,9 @@
 
 # 📬 **Connect With Me**
 
-📧 **Email:**  
+📧 **Email:*arushichoudhary941@gmail.com*  
 🔗 **LinkedIn:**  
 🐙 **GitHub:**  
-
 ---
 
 <p align="center">
