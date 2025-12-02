@@ -2,7 +2,7 @@
 <!-- 🔥 ANIMATED HEADER BANNER -->
 <!-- ========================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Chayan+Khatua!;AI+%26+Full+Stack+Developer;Python+|+HTML+|+CSS+|+JavaScript;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Universe+🌌">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Arushi+Choudhary!;AI+%26+Full+Stack+Developer;Python+|+HTML+|+CSS+|+JavaScript;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Universe+🌌">
 </p>
 
 <!-- PROFILE PIC -->
@@ -100,9 +100,9 @@
 
 # 📬 **Connect With Me**
 
-📧 **Email:** **  
-🔗 **LinkedIn:** **  
-🐙 **GitHub:** **  
+📧 **Email:**  
+🔗 **LinkedIn:**  
+🐙 **GitHub:**  
 
 ---
 
@@ -111,4 +111,3 @@
 </p>
 
 <p align="center"><b>⭐ If you like my work, consider starring my repositories!</b></p>
-
