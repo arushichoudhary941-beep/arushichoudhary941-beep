@@ -83,7 +83,8 @@
 - Python OOP  
 - Web Styling (CSS3)  
 - JavaScript  
-- Git & GitHub  
+- Git & GitHub
+- Java 
 - Basics of Machine Learning  
 
 ---
