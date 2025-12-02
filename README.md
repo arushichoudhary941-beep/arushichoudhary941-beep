@@ -101,7 +101,7 @@
 
 📧 **Email:*arushichoudhary941@gmail.com*  
 🔗 **LinkedIn:**  
-🐙 **GitHub:**  
+🐙 **GitHub:*https://github.com/arushichoudhary941-beep*  
 ---
 
 <p align="center">
